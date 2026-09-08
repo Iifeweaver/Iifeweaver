@@ -5,4 +5,4 @@
 
 <div align=center/>
 
-<img width="2360" height="1640" alt="Image" src="https://github.com/user-attachments/assets/e571eca5-f2e5-4389-88d6-ea5158903a3b" />
+<img width="820" height="500" alt="IMG_3190" src="https://github.com/user-attachments/assets/433bb92a-2c3e-4787-9403-3a6507ebf309" />
